@@ -1,0 +1,328 @@
+{
+  "Tables": [
+    {
+      "id": "1",
+      "food": "Kanat(10 adet)",
+      "drink": "Su",
+      "price": "2"
+    },
+    {
+      "id": "2",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "3",
+      "food": "Tavukburger",
+      "drink": "Kola",
+      "price": "2"
+    },
+    {
+      "id": "4",
+      "food": "Tavukburger",
+      "drink": "Kola",
+      "price": "2"
+    },
+    {
+      "id": "5",
+      "food": "Kanat(10 adet)",
+      "drink": "Ayran",
+      "price": "800"
+    },
+    {
+      "id": "6",
+      "food": "Tavukburger",
+      "drink": "Kola",
+      "price": "2"
+    },
+    {
+      "id": "7",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "8",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "9",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "10",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "11",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "12",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "13",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "14",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "15",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "16",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "17",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "18",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "19",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "20",
+      "food": "Kemiksiz Tavuk(10 adet)",
+      "drink": "Gazoz",
+      "price": "2"
+    },
+    {
+      "id": "21",
+      "food": "Kanat(10 adet)",
+      "drink": "Kola",
+      "price": "1"
+    },
+    {
+      "id": "22",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "23",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "24",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "25",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "26",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "27",
+      "food": "Tavukburger",
+      "drink": "Kola",
+      "price": "2"
+    },
+    {
+      "id": "28",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "29",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "30",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "31",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "32",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "33",
+      "food": "Kemiksiz Tavuk(10 adet)",
+      "drink": "Ayran",
+      "price": "1"
+    },
+    {
+      "id": "34",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "35",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "36",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "37",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "38",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "39",
+      "food": "Kanat(10 adet)",
+      "drink": "Kola",
+      "price": "2"
+    },
+    {
+      "id": "40",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "41",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "42",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "43",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "44",
+      "food": "Kanat(10 adet)",
+      "drink": "Ayran",
+      "price": "1"
+    },
+    {
+      "id": "45",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "46",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "47",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "48",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "49",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "50",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "51",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "52",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "53",
+      "food": "",
+      "drink": "",
+      "price": 0
+    },
+    {
+      "id": "54",
+      "food": "",
+      "drink": "",
+      "price": 0
+    }
+  ]
+}
